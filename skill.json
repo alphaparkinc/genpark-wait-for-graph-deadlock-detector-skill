@@ -1,0 +1,14 @@
+{
+  "name": "genpark-wait-for-graph-deadlock-detector-skill",
+  "version": "1.0.0",
+  "description": "Wait-For Graph (WFG) deadlock detection engine with cycle discovery and victim transaction termination policies.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "wait-for-graph",
+    "deadlock-detection",
+    "lock-manager",
+    "cycle-detection",
+    "distributed-database"
+  ]
+}
